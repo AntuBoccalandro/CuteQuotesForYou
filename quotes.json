@@ -1,0 +1,109 @@
+{
+    "all_quotes":{
+       "quote1":{
+          "quote":"Si sé lo que es el amor, es gracias a ti.",
+          "author":"Hermann Hesse",
+          "cite":"Narciso y Goldmundo"
+       },
+       "quote2":{
+          "quote":"Me he enamorado cientos de veces. Siempre de ti.",
+          "author":"Mario Benedetti",
+          "cite":"Inventario"
+       },
+       "quote3":{
+          "quote":"El amor es eso: cuando alguien, conociendo tus cicatrices, se queda para besarlas.",
+          "author":"Benjamin Griss",
+          "cite":"Desconocido"
+       },
+       "quote4":{
+          "quote":"Cuando la felicidad del otro es tu felicidad, eso es amor.",
+          "author":"Lana Del Rey",
+          "cite":"Desconocido"
+       },
+       "quote5":{
+          "quote":"La medida del amor es amar sin medida.",
+          "author":"San Agustín",
+          "cite":"Sermones"
+       },
+       "quote6":{
+          "quote":"Las verdaderas historias de amor nunca tienen un final.",
+          "author":"Richard Bach",
+          "cite":"Puente hacia el infinito"
+       },
+       "quote7":{
+          "quote":"Te miro como si toda mi locura se hubiera enamorado de ti.",
+          "author":"David Sant",
+          "cite":"Desconocido"
+       },
+       "quote8":{
+          "quote":"Sólo hay un remedio para el amor: amar más.",
+          "author":"Henry David Thoreau",
+          "cite":"Diarios"
+       },
+       "quote9":{
+          "quote":"El amor es como la guerra. Fácil empezar, pero muy difícil parar.",
+          "author":"H.L. Mencken",
+          "cite":"Desconocido"
+       },
+       "quote10":{
+          "quote":"Amar no es nada, ser amado es algo. Amar y ser amado lo es todo.",
+          "author":"Bill Russell",
+          "cite":"Desconocido"
+       },
+       "quote11":{
+          "quote":"¿Cómo te amo? Déjame contarte las maneras. Te amo con la profundidad, la anchura y la altura que mi alma puede alcanzar.",
+          "author":"Elizabeth Barrett Browning",
+          "cite":"Sonetos del portugués"
+       },
+       "quote12":{
+          "quote":"Te amo más que a mi propia piel.",
+          "author":"Frida Kahlo",
+          "cite":"Cartas a Diego Rivera"
+       },
+       "quote13":{
+          "quote":"El amor es la poesía de los sentidos.",
+          "author":"Honoré de Balzac",
+          "cite":"La fisiología del matrimonio"
+       },
+       "quote14":{
+          "quote":"En asuntos de amor, los locos son los que tienen más experiencia. De amor no preguntes nunca a los cuerdos; los cuerdos aman cuerdamente, que es como no haber amado nunca.",
+          "author":"Jacinto Benavente",
+          "cite":"La Malquerida"
+       },
+       "quote15":{
+          "quote":"Las historias de amor encierran en sí todos los secretos del mundo.",
+          "author":"Paulo Coelho",
+          "cite":"Once Minutos"
+       },
+       "quote16":{
+          "quote":"Sabes que estás enamorado en el momento en que puedes tocar las estrellas sin llegar.",
+          "author":"Melisa M. Hamling",
+          "cite":"Twenty Weeks"
+       },
+       "quote17":{
+          "quote":"El amor no reconoce barreras. Salta obstáculos, brinca vallas, penetra paredes para llegar a su destino lleno de esperanza.",
+          "author":"Maya Angelou",
+          "cite":"Desconocido"
+       },
+       "quote18":{
+          "quote":"El mejor tipo de amor es el que despierta el alma y nos hace aspirar a más, que planta un fuego en el corazón y trae paz a la mente.",
+          "author":"Nicholas Sparks",
+          "cite":"El cuaderno de Noah"
+       },
+       "quote19":{
+          "author":"Jorge Luis Borges",
+          "quote":"Estar contigo o no estar contigo es la medida de mi tiempo.",
+          "cite":"El hacedor"
+       },
+       "quote20":{
+          "author":"Gabriel Rolón",
+          "quote":"El verdadero amor no es otra cosa que el deseo inevitable de ayudar al otro para que sea quien es.",
+          "cite":"Encuentros (El lado B del amor)"
+       },
+       "quote21":{
+          "author":"Gabriel García Márquez",
+          "quote":"Te amo no por lo que eres, sino por lo que soy yo cuando estoy contigo.",
+          "cite":"El amor en los tiempos del cólera"
+       }
+    }
+ }
