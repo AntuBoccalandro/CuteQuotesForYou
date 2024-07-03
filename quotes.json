@@ -104,6 +104,11 @@
           "author":"Gabriel García Márquez",
           "quote":"Te amo no por lo que eres, sino por lo que soy yo cuando estoy contigo.",
           "cite":"El amor en los tiempos del cólera"
+       },
+       "quote22":{
+          "author":"Mario Benedetti",
+          "quote":"...se que voy a quererte sin preguntas, se que vas a quererme sin respuestas.",
+          "cite":"Despedida"
        }
     }
  }
